@@ -1,6 +1,17 @@
 <h1 align="left">Hey 👋 I'm Patryk and I'm a Frontend developer.</h1>
 
 ###
+<h3 align="left">🔗 Links</h3>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/patrykmrzygłód" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 <h2 align="left">About me 🚀🚀🚀</h2>
 
@@ -48,14 +59,3 @@
 
 ###
 
-<h3 align="left">🔗 Links</h3>
-
-###
-
-<div align="left">
-  <a href="www.linkedin.com/in/patrykmrzygłód" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
