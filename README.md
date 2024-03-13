@@ -7,7 +7,8 @@
 
 ###
 
-<p align="left">🎯 Goals: To secure a position as a junior Frontend developer.<br>📚 As a passionate first-year student, I'm eager to expand my knowledge and skills in frontend journey <br>🎲 Fun fact: My dream car is a Tesla!</p>
+<p align="left">📘 Currently diving deeper into React to explore its advanced features and refine my development techniques.<br>
+🎯 Goals: To secure a position as a junior Frontend developer.<br>📚 As a passionate first-year student, I'm eager to expand my knowledge and skills in frontend journey <br>🎲 Fun fact: My dream car is a Tesla!</p>
 
 ###
 
