@@ -6,7 +6,7 @@
 <h2 align="left">About me 🚀🚀🚀</h2>
 
 ###
-
+<h3>🌍Fullstack Developer at Codenauts🌍</h3>
 <p align="left">📘 Currently diving deeper into React/React Native to explore its advanced features and refine my development techniques.<br>
 📚 As a passionate first-year student, I'm eager to expand my knowledge and skills in frontend journey <br>🎲 Fun fact: My dream car is a Tesla!</p>
 
