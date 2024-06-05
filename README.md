@@ -34,8 +34,6 @@
  
  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
  
- <img src="https://skillicons.dev/icons?i=expo" height="40" alt="expo logo"  />
- 
  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 
  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
