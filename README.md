@@ -6,9 +6,11 @@
 <h2 align="left">About me 🚀🚀🚀</h2>
 
 ###
+
 <h3>🌍Fullstack Developer at Codenauts🌍</h3>
-<p align="left">📘 Currently diving deeper into React/React Native to explore its advanced features and refine my development techniques.<br>
-📚 As a passionate first-year student, I'm eager to expand my knowledge and skills in frontend journey <br>🎲 Fun fact: My dream car is a Tesla!</p>
+🧠 I'm currently expanding my knowledge in frontend development (Next.js 14,Java,Expo)
+🎲 Fun fact: My dream car is a Tesla!
+👩‍💻 I'm presently studying Applied Computer Science
 
 ###
 
@@ -22,28 +24,39 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="11" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="11" />
+<div>
+
+ <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
+ 
+ <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+
+ <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
+ 
+ <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+ 
+ <img src="https://skillicons.dev/icons?i=expo" height="40" alt="expo logo"  />
+ 
+ <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+
+ <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
+
+ <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
+
+ <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo" />
+
+ <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+
+ <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo" />
+
+ <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+ 
+ <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+
 </div>
 
 ###
+
+
+
+
 
