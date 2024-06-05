@@ -51,7 +51,7 @@
  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykkM&layout=compact&theme=radical)
+https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykkM&layout=compact&theme=radical
 
 
 ###
