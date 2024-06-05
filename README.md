@@ -8,9 +8,9 @@
 ###
 
 <h3>🌍Fullstack Developer at Codenauts🌍</h3>
-🧠 I'm currently expanding my knowledge in frontend development (Next.js 14,Java,Expo)
-🎲 Fun fact: My dream car is a Tesla!
-👩‍💻 I'm presently studying Applied Computer Science
+🧠 I'm currently expanding my knowledge in frontend development (Next.js 14,Java,Expo,React Native)<br>
+🎲 Fun fact: My dream car is a Tesla!<br>
+👩‍💻 I'm presently studying Applied Computer Science<br>
 
 ###
 
