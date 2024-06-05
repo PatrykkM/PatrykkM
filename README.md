@@ -24,11 +24,11 @@
 
  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
  
- <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
-
  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
  
  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+
+ <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
  
  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
 
