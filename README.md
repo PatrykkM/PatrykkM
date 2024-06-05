@@ -2,11 +2,6 @@
 
 ###
 
-
-<h2 align="left">About me 🚀🚀🚀</h2>
-
-###
-
 <h3>🌍Fullstack Developer at Codenauts🌍</h3>
 🧠 I'm currently expanding my knowledge in frontend development (Next.js 14,Java,Expo,React Native)<br>
 👩‍💻 I'm presently studying Applied Computer Science<br>
