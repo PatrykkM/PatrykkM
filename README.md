@@ -27,7 +27,7 @@
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
   <img width="11" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="40" alt="expo logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Expo_logo.png" height="40" alt="expo logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="11" />
